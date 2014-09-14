@@ -6,9 +6,9 @@ from Emacs.
 
 h2. Installation
 
-* go to you emacs site lisp folder (typically in ~/.emacs.d)
-* <code>git clone git@github.com:grundprinzip/dblp.el.git</code>
-* and now add the following to your emacs config file
+* go to your emacs site lisp folder (typically ~/.emacs.d)
+* <code>git clone git://github.com/grundprinzip/dblp.el.git</code>
+* add the following to your emacs config file
 
 <pre>
     <code>
